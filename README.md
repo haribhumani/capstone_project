@@ -1,21 +1,18 @@
-# DATA606 : Capstone Project
-<br/>
-## Fake News Detection Using NLP
+# DATA606 - Capstone Project : Fake News Detection Using NLP
 
 ## Resources:
 - Data collected from 'Politifact' website.
 
-## Frameworks & Libraries:
-- NLP
-- TF-IDF
-- NLTK
--
+- **Python Libraries** : pandas, numpy, beautifulsoup, matplotlib, seaborn, sklearn
+- **NLP Libraries** : NLTK, TF-IDF, VADER
 
 ## Models
+- Naive Bayes
 - SVM
 - Logistic Regression
+- XGBoost
 - Bi-LSTM
-- 
+- GRU
 
 ## Procedure:
 - Web scrapping
