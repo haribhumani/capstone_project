@@ -1,5 +1,8 @@
 # DATA606 - Capstone Project
 
+Under the supervision of :
+- Dr. Professor Barber
+
 Submitted by:
 - Anusha Ayyagari
 - Harikrishna Bhumani
@@ -33,7 +36,11 @@ Submitted by:
 - **NLP Libraries** : NLTK, TF-IDF, VADER
 
 
-## Models
+## Methodology:
+![unable to render methodology image](overview.png?raw=true)
+
+
+## Models used:
 
 - Naive Bayes
 - SVM
@@ -42,15 +49,5 @@ Submitted by:
 - Bi-LSTM
 - GRU
 
-## Procedure:
-
-- Web scrapping
-- Data Cleaning
-- Exploratory Data Analysis
-- Statistical Analysis
-- Natural Language Processing
-- Train the Model
-- Model Evaluation
-
-# Results
-![Results](results.png?raw=true)
+# Results:
+![unable to render results image](results.png?raw=true)
