@@ -50,4 +50,4 @@ Submitted by:
 - GRU
 
 # Results:
-![unable to render results image](results.png?raw=true)
+![unable to render results image](result.png?raw=true)
