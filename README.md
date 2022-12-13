@@ -37,7 +37,7 @@ Submitted by:
 
 
 ## Methodology:
-![unable to render methodology image](overview.png?raw=true)
+![unable to render methodology image](images/overview.png?raw=true)
 
 
 ## Models used:
@@ -50,4 +50,4 @@ Submitted by:
 - GRU
 
 # Results:
-![unable to render results image](result.png?raw=true)
+![unable to render results image](images/result.png?raw=true)
